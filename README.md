@@ -1,19 +1,21 @@
-# 03 - UFCD-0782 - F7 - Ex6
+# 03 - UFCD-0782 - F7 - Ex7
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-Escreva um programa que peça ao utilizador para digitar o valor de compra de um produto,
-o valor do lucro que se deseja ter e o valor do IVA. O programa deverá apresentar o valor a
-que se deve vender o produto.
+Escreva um programa que peça ao utilizador para digitar o preço diário do aluguer de um
+carro, o número de dias e o número de quilômetros que um carro fez, e calcule o valor a ser
+pago pelo aluguer do carro.. O aluguer do carro é calculado da seguinte forma:  
+• Cada dia tem um custo fixo.  
+• Ao preço de cada dia acresce o valor de 0,1€ por cada kilómetro feito.  
 
 ### Saída Esperada:
-Qual é o valor do produto:  
-20 ↵  
-Qual é o lucro que se quer ter:  
+Preço diário do aluguer:  
 10 ↵  
-Valor do iva:  
-23 ↵  
-O valor do produto final é 38,1 Euros.  
+Número de dias do aluguer:  
+5 ↵  
+Kilómetros realizados:  
+100 ↵  
+O preço do aluguer é 60 Euros.  
  
 ### Notas
 - o teste verificará se a saída do programa é exatamente a esperada.  
